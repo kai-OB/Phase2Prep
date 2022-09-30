@@ -1,0 +1,3 @@
+[submodule "odyssey-submodule"]
+	path = odyssey-submodule
+	url = https://github.com/kai-OB/odyssey-lift-off-part1.git
